@@ -1,3 +1,4 @@
+```
 import matplotlib.pyplot as plt
 
 class DataVisualizer:
@@ -14,3 +15,6 @@ class DataVisualizer:
             ax.set_ylabel('Frequency')
             ax.set_title(f'{feature} Feature Distribution')
             plt.show()
+            
+            
+```
